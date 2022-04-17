@@ -1,4 +1,3 @@
-
 # Repositório de Projetos - Carrefour BootCamp
 
 ---
@@ -7,11 +6,10 @@
 
 Este é um repositório criado para registro do aprendizado adquirido durante a realização do BootCamp Carrefour
 
-## Tecnologias usadas até o momento temos:
-- Git e GitHub :memo:
+---
 
+## Tecnologias usadas até o momento:
 
+- Git e GitHub 📝
 
-Made with :coffee: by Wagner Leodoro
-
-
+Made with ☕ by Wagner Leodoro
